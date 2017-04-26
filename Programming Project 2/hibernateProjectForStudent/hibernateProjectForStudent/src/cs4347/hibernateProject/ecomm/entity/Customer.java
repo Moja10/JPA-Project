@@ -6,7 +6,6 @@ public class Customer
 {
 	
 	
-	
 	//test
 	private Long id;
 	private String firstName;
